@@ -1,1 +1,3 @@
-aaa
+alert('abc')
+
+alert('bbb')
